@@ -10,3 +10,8 @@ vpn-by-amn.pub
 *secret*
 *cookie*
 client-link.txt
+
+__pycache__/
+*.pyc
+*.backup
+*.previous.*
