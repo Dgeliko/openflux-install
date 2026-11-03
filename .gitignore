@@ -1,0 +1,12 @@
+# Publish only explicitly selected project files.
+.idea/
+.DS_Store
+vpn-by-amn
+vpn-by-amn.pub
+*.pem
+*.key
+.env
+.env.*
+*secret*
+*cookie*
+client-link.txt
